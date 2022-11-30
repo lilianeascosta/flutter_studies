@@ -1,16 +1,8 @@
-# studies_flutterando
+# Flutterando Videos
 
-A new Flutter project.
+Video #12: Management of state
 
-## Getting Started
+creation of a new file to manage the application, in this video the example used to accomplish this feat was changing the state of flutter's dark or light theme. As images bellow.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Light Theme](https://drive.google.com/file/d/1wxYVi_Ck96cAZSf1DAGvtxtmXwVw84MS/view?usp=share_link)
+![Dark Theme](https://drive.google.com/file/d/1DMSW9U3HWI669xUHcmpxBgPeqktkREHL/view?usp=share_link)
